@@ -1,0 +1,28 @@
+# https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.mypy_cache/
+
+
+
+
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+__pypackages__/
+
+
+dump.rdb
+
+
+# Environments
+.env
+my_env/
+
+
+.DS_STORE
+
+# Visual Studio Code
+.vscode
+.vscode/
+
+
